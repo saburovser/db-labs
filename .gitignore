@@ -1,0 +1,4 @@
+task
+.idea
+node_modules
+ts-built

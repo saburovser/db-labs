@@ -1,0 +1,7 @@
+ID_comp int|name str
+0|Аэрофлот
+1|Japan Airlines
+2|Wizz Air
+3|Победа
+4|S7 Airlines
+5|ЮТэйр

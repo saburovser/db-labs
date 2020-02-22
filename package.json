@@ -1,0 +1,17 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "DB course lab 1",
+  "main": "src/1.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node ts-built/1.js",
+    "tsc-watch": "tsc -w"
+  },
+  "author": "Sergey Saburov",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^13.7.4",
+    "typescript": "^3.8.2"
+  }
+}
